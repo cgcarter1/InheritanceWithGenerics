@@ -1,0 +1,5 @@
+﻿body {
+}
+#content {display: block;}
+#content .list_form {float: left; margin: 5px; padding: 10px; border: 2px solid #add8e6; border-radius: 10px;}
+#content .person_form {float: left; margin: 5px; padding: 10px; border: 2px solid #add8e6; border-radius: 10px;}
